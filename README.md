@@ -61,3 +61,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Acknowledgments
 - Inspired by the gameplay mechanics of Star Kingdoms and the narrative depth of Mass Effect.
 - Special thanks to the open-source community for their invaluable resources and tools.
+# Critical-Mass
+Critical Mass video game development.
